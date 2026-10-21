@@ -36,25 +36,19 @@ I'm a Software Engineering student and Python / Backend Developer based in Brazi
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Featured Project
 
-* 💈 **[Barber GO / Dom Pedro ERP](https://github.com/TEU_USERNAME/barber-go)**  
-  A full-stack barbershop ERP system built with a Streamlit interface, Flask REST API, SQLite database, and n8n workflow automation integrated with WhatsApp and Google Calendar.
-
-* 🛠️ **[Mend App](https://github.com/TEU_USERNAME/mend)**  
-  A native SwiftUI application developed for the Apple Swift Student Challenge, providing step-by-step offline home maintenance guides.
-
-* 🗄️ **[Database & Backup Automation](https://github.com/TEU_USERNAME/database-tools)**  
-  Enterprise-grade Azure SQL archive and automation utilities built to process and optimize legacy data pipelines efficiently.
+* 📄 **[CV Craft AI](https://github.com/HenriqueMerigo/cv-craft-ai)**  
+  An automated tool built in Python using ReportLab to programmatically generate and export clean, structured A4 PDF resumes from JSON inputs.
 
 ---
 
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Henrique's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueMerigo&show_icons=true&theme=radical&hide_border=true" alt="Henrique's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMerigo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
