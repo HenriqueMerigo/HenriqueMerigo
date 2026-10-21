@@ -46,8 +46,6 @@ I'm a Software Engineering student and Python / Backend Developer based in Brazi
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueMerigo&show_icons=true&theme=radical&hide_border=true" alt="Henrique's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMerigo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
