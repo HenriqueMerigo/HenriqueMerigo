@@ -10,7 +10,7 @@ I'm a Software Engineering student and Python / Backend Developer based in Brazi
 * 🛠️ Working with **Python**, **Flask**, **FastAPI**, and **Streamlit** to build scalable software solutions.
 * 🗄️ Experienced in database management and optimization using **SQL/T-SQL**, **Azure SQL**, **MongoDB**, **Redis**, and **SQLite**.
 * ⚙️ Passionate about automation using **n8n**, backend architecture, and clean code practices.
-* 🎵 **Fun fact:** Outside of programming, I play the accordion!
+* 🎵 **Fun fact:** Outside of programming, I play the accordion and guitar!
 
 ---
 
