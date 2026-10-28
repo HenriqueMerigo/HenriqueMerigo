@@ -45,7 +45,7 @@ I'm a Software Engineering student and Python / Backend Developer based in Brazi
 
 ### 📊 GitHub Statistics
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HenriqueMerigo)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=HenriqueMerigo&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
